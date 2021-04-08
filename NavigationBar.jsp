@@ -12,9 +12,14 @@
 	href="https://unpkg.com/bootstrap@3.3.7/dist/css/bootstrap-theme.min.css">
 <script src="https://unpkg.com/jquery@3.4.1/dist/jquery.min.js"></script>
 <script src="https://unpkg.com/bootstrap@3.3.7/dist/js/bootstrap.min.js"></script>
+<style>
+.navbar-custom {
+    background-color: white;
+}
+</style>
 </head>
 <body>
-	<ul class="nav nav-tabs navbar-static-top">
+	<ul class="nav nav-tabs navbar-fixed-top navbar-custom">
 		<li class="nav-item"><a class="nav-link" href="index.jsp">­º­¶</a>
 		</li>
 		<li class="nav-item"><a class="nav-link" href="protein_home.jsp">³J¥Õ½è·j´M</a>

@@ -7,6 +7,8 @@
 <html>
 <head>
 <meta charset="BIG5">
+<link rel="stylesheet" type="text/css" href="Style/Unite.css"
+	media="screen" />
 <title>蛋白質搜尋</title>
 
 <script>
